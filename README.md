@@ -1,5 +1,7 @@
 # Portfolio
 
+👋 Welcome to my data portfolio! I'm actively seeking entry-level roles in data analytics and ML.
+
 # 📊 Prajwal Longia – Data Analytics & Machine Learning Portfolio
 
 Hi! I'm Prajwal – a data enthusiast with hands-on experience in SQL, Python, Tableau, and machine learning foundations. I love solving real-world problems using data and transforming raw datasets into actionable insights.
